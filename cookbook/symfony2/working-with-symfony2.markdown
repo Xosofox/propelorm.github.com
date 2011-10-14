@@ -43,7 +43,7 @@ Instead of using svn, you can clone the unofficial Git repositories:
 
 ### via Symfony2 vendor management
 
-As an alternative, you can also manage your vendors via Symfony2's own bin/vendor command.
+As an alternative, you can also manage your vendors via Symfony2's own `bin/vendor` command.
 Add the following lines to your `deps` file (located in the root of the Symfony project:
 
     [PropelBundle]
